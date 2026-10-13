@@ -7,8 +7,8 @@
 
 > A 3-dashboard Power BI analytics suite built from a 14-table, 300,000+ row logistics operations database — covering revenue performance, service-quality, and fleet/safety operations for a U.S. trucking and freight business.
 
-**Author:** Uthman B. Adedeji, ACA | Chartered Accountant & Data Analyst
-📧 uthmanbolaji@gmail.com
+**Author:** Abdulbasit A. Adedeji
+📧 adedejiabdulbasit@gmail.com
 
 ---
 
